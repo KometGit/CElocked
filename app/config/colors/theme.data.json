@@ -1,0 +1,16 @@
+{
+    "editor.font": "CourierNew 14",
+    "editor.background": "#0c1018",
+    "editor.subground": "#06090d",
+    "editor.render-time": 50,
+    "editor.highlightthickness": 0,
+    "editor.selectforeground": "#caf0f8",
+    "editor.tabsize": "    ",
+    "editor.selectbackground": "#4361ee",
+    "editor.MYGROUP": {"foreground": "#c5ced7", "font": "CourierNew 14"},
+    "editor.COMMENT": {"foreground": "#757e89", "font": "CourierNew 14"},
+    "editor.KEYWORD": {"foreground": "#ff7066", "font": "CourierNew 14 italic"},
+    "editor.BUILTIN": {"foreground": "#d599f8", "font": "CourierNew 14"},
+    "editor.STRING": {"foreground": "#95ccf4", "font": "CourierNew 14"},
+    "editor.DEFINITION": {"foreground": "#dc9dff", "font": "CourierNew 14 underline"}
+}
