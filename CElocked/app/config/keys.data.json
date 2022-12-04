@@ -1,0 +1,7 @@
+{
+    "editor.k1": ["<Command-n>", "Command+N"],
+    "editor.k2": ["<Command-o>", "Command+O"],
+    "editor.k3": ["<Command-s>", "Command+S"],
+    "editor.k4": ["<Command-Shift-s>", "Command+Shift+S"],
+    "editor.k5": ["<Command-Shift-f>", "Command+Shift+F"]
+}

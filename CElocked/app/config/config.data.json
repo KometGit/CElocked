@@ -1,0 +1,11 @@
+{
+    "editor.version": "-v0.1",
+    "editor.name": "CELocked",
+    "editor.geometry": "720x440",
+    "editor.deafultFileName": "New File",
+    "editor.filestypes": [["Text Files","*"], ["Markdown","*"]],
+    "editor.states": [" - ", " - *"],
+    "editor.auto-complete": true,
+    "editor.highlight": true,
+    "editor.disable-minimap": false
+}
