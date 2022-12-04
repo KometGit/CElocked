@@ -1,6 +1,6 @@
 import idlelib.colorizer as ic
 import idlelib.percolator as ip
-import re
+import re, tkinter
 from parser_1 import *
 
 class HighLight():

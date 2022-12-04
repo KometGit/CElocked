@@ -22,7 +22,7 @@ class TextLineNumbers(tk.Canvas):
                 break
             y = dline[1]
             linenum = '  ' + str(i).split(".")[0]
-            self.create_text(2, y, anchor="nw", fill=theme['editor.MYGROUP']['foreground'], text=linenum, font=theme['editor.font'])
+            self.create_text(2, y, anchor="nw", fill=theme['editor.linenumbesr-color'], text=linenum, font=theme['editor.font'])
             i = self.textwidget.index("%s+1line" % i)
 
 class CustomText(tk.Text):
