@@ -1,3 +1,18 @@
+#function
+def printt(what) -> None:
+    for i in range(100):
+        prrint(i)
+    return what
+print(printt('hi'))
+
+
+
+
+
+
+
+
+
 from tkinter import *
 from tkinter import filedialog
 import sys
