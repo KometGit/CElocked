@@ -4,6 +4,9 @@ def printt(what) -> None:
         prrint(i)
     return what
 print(printt('hi'))
+class sandkjasn():
+    def __init__(self):
+        self.x = 0
 
 
 
